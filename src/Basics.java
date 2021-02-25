@@ -14,7 +14,6 @@ public class Basics {
 	public static void main(String[] args) {
 
 		// Validate if add place API works as expected.
-
 		// RESTAssured works on 3 principles/methods - given, when, then.
 		// given - all input details
 		// when - submit the API(get, post, put, delete) - resource, http method

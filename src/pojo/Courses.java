@@ -1,7 +1,7 @@
 package pojo;
 
 public class Courses {
-
+	
 	private String title;
 	private String price;
 	private String copies;
@@ -28,6 +28,5 @@ public class Courses {
 
 	public void setCopies(String copies) {
 		this.copies = copies;
-	}
-	
+	}	
 }

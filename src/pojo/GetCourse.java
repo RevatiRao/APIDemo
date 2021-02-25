@@ -37,7 +37,7 @@ public class GetCourse {
 	}
 	public List<Courses> getCourses() {
 		return courses; 
-		
+
 	}
 	public void setCourses(List<Courses> courses) {
 		this.courses = courses;
